@@ -1,9 +1,7 @@
 <h1 align="left">Welcome to my profile! 👋</h1>
 <hr>
 
-
- - 🔭 I’m currently working on: [**PupHealth!**](https://github.com/archgabs/puphealth)
- - 🌱 I’m currently learning **C / Python / SQLite & CTK**
+ - 🌱 I’m currently learning **Java.**
  - 💬 Ask me about **Wms, DEs, Linux and Programming!**
  - 📫 How to reach me: **contato.joaogabriel@proton.me**, and i'm also on [**Linkedin**!](https://www.linkedin.com/in/joao-gabriel-dev/) 
 
