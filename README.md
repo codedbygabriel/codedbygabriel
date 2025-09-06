@@ -21,9 +21,10 @@ Hello! Call me **Gabriel**!
 - SQL (Sqlite3 / Postgres)
 - Window Managers, CLI tools in general
 
-## Featured Projects
+## Some Projects
 
 **Python Related**
+- [YADO - Yet Another Directory Organizer](https://www.github.com/codedbygabriel/yado)
 - [Hyprland Wallpaper Changer GUI](https://www.github.com/codedbygabriel/pywpp)
 - [PupHealth](https://www.github.com/codedbygabriel/puphealth)
 
