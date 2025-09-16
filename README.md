@@ -7,6 +7,9 @@ Hello! Call me **Gabriel**!
 
 ## Some Projects
 
+**C-Sharp Related**
+- [GLFE - Generic Linux File Explorer](https://github.com/codedbygabriel/GLFE)
+
 **Python Related**
 - [YADO - Yet Another Directory Organizer](https://www.github.com/codedbygabriel/yado)
 - [Hyprland Wallpaper Changer GUI](https://www.github.com/codedbygabriel/pywpp)
