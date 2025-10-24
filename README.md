@@ -3,20 +3,7 @@
 ## About Me
 
 Hello! Call me **Gabriel**!  
-*I'm a Software Developer that loves **Scripting**, ~~Bloated~~ Oriented Programming Languages such as **Java**, and Window Managers!*
-
-## Some Projects
-
-**C-Sharp Related**
-- [GLFE - Generic Linux File Explorer](https://github.com/codedbygabriel/GLFE)
-
-**Python Related**
-- [YADO - Yet Another Directory Organizer](https://www.github.com/codedbygabriel/yado)
-- [Hyprland Wallpaper Changer GUI](https://www.github.com/codedbygabriel/pywpp)
-- [PupHealth](https://www.github.com/codedbygabriel/puphealth)
-
-**Lua Related**
-- [Hyprland Wallpaper Changer CLI + Randomizer](https://www.github.com/codedbygabriel/HyprlandWallpaperChanger)
+I'm a _Software Developer_ that loves to tinker computers, build software and search for creative ways to use a computer! 
 
 ## Technology Stack
 
