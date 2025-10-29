@@ -1,5 +1,5 @@
 # Welcome To Gabriel's Rabbit Hole 🐇
-- [Full Portifolio Here.](https://codedbygabriel.github.io/pages/)
+- [Full Portifolio Here.](https://codedbygabriel.github.io/)
 ## About Me
 
 Hello! Call me **Gabriel**!  
