@@ -1,19 +1,9 @@
-# Welcome To Gabriel's Rabbit Hole 🐇
-- [Full Portifolio Here.](https://codedbygabriel.github.io/)
-## About Me
+gabriel@subsolo
 
-Hello! Call me **Gabriel**!  
-I'm a _Software Developer_ that loves to tinker computers, build software and search for creative ways to use a computer! 
+os -> archlinux.
+natural languages -> brazillian portuguese, english and spanish.
+formal languages -> java, python, lua, bash... (and learning go, in time).
+interested in -> software development, linux, finance, sales and manga / anime.
 
-## Technology Stack
-**Programming Languages**
-- Python;
-- Lua;
-- Bash;
-- Java, C#;
-- JS/TS.
-
-**Miscellaneous**
-- Linux;
-- SQL (Sqlite3 / Postgres);
-- Window Managers, CLI tools in general;
+[ⓘ linkedin ](https://www.linkedin.com/in/joao-gabriel-dev/)
+[ⓘ blog (en/pt-br) ](https://codedbygabriel.github.io) 
